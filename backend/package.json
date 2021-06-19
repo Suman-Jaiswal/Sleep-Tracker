@@ -1,0 +1,19 @@
+{
+  "name": "sleep-tracker",
+  "version": "1.0.0",
+  "description": "Daily Sleep tracker app ",
+  "main": "server.js",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.14"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "nodemon server.js"
+  },
+  "author": "Suman Jaiswal",
+  "license": "ISC"
+}
